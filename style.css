@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=COCOGOOSE:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+* {
+  list-style: none;
+  text-decoration: none;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  width: 100%;
+}
+
+.top-nav {
+  display: none;
+}
+
+.bottom-nav {
+  display: none;
+}
+
+.hamburger {
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+  font-size: 40px;
+}
+
+#mobile-menu {
+  visibility: hidden;
+  background-color: #fff;
+  height: 100vh;
+  top: 0;
+  width: 100%;
+  position: fixed;
+}
+
+.nav-mobile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: #333336;
+  gap: 35px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 30px;
+}
+
+.nav-mobile a {
+  color: black;
+}
+
+.nav-mobile .high {
+  color: #e2e1e1;
+}
+
+.highlighter {
+  color: #d3d3d3;
+  background-color: #ec5242;
+  border: 1px solid #c2665e;
+  font-size: 30px;
+  width: 300px;
+  padding: 30px;
+  margin-top: 70px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cancel {
+  font-size: 50px;
+  margin-left: 5%;
+  margin-top: 2.5%;
+}
+
+.headline {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 60px;
+}
+
+.opacity {
+  background: #ffffff3f;
+}
+
+.headliner {
+  background-image: url(images/checkmate.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.hello {
+  color: #ec5242;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+}
+
+.headline h1 {
+  color: #ec5242;
+  margin-top: 10px;
+  font-family: 'cocogoose', sans-serif;
+  font-size: 8vw;
+}
+
+.description {
+  border: 2px solid #fff;
+  margin-top: 20px;
+  padding: 30px 20px 30px 20px;
+  margin-bottom: 20px;
+  background-color: rgb(247, 247, 248);
+  text-align: center;
+  border-image: initial;
+}
+
+.date {
+  margin-top: 30px;
+  font-size: 1.54rem;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
+}
+
+.venue {
+  margin-top: 10px;
+  font-size: 1.12rem;
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+  padding-bottom: 5%;
+}
