@@ -16,11 +16,11 @@ Mobile and desktop version setup of website showcasing the home page and about p
 
 ## Live Demo
 
-[Live Demo Link](https://ngozikanwocha.github.io/Capstone1/)
+[Live Demo Link](https://aduwujoseph.github.io/Capstone1/)
 
 ## Presentation Video
 
-[Loom](https://[(https://loom.com/share/1ac1ecbe8fd342ecbae0203b918cf61d)]
+[Loom](https://[(https://loom.com/share/)]
 
 ## Getting Started
 
@@ -29,11 +29,11 @@ Mobile and desktop version setup of website showcasing the home page and about p
 
 ## Author
 
-👤 **Ngozika Nwocha**
+👤 **Aduwu Joseph**
 
-- GitHub: [@ngozikanwocha](https://github.com/NgozikaNwocha)
-- Twitter: [@ngozikanwocha](https://twitter.com/NgozikaNwocha)
-- LinkedIn: [Ngozika Nwocha](https://www.linkedin.com/in/NgozikaNwocha)
+- GitHub: [@aduwujoseph](https://github.com/AduwuJoseph)
+- Twitter: [@aduwujosep](https://twitter.com/aduwujoseph)
+- LinkedIn: [Aduwu Joseph](linkedin.com/in/aduwu-joseph-483b91163/)
 
 ## 🤝 Contributing
 
