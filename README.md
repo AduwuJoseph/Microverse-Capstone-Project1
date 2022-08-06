@@ -20,7 +20,7 @@ Mobile and desktop version setup of website showcasing the home page and about p
 
 ## Presentation Video
 
-[Loom](https://loom.com/share/)
+[Loom](https://www.loom.com/share/ebe50c0c26de42e191f566bca3ebca23)
 
 ## Getting Started
 
