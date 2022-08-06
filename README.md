@@ -16,7 +16,7 @@ Mobile and desktop version setup of website showcasing the home page and about p
 
 ## Live Demo
 
-[Live Demo Link](https://aduwujoseph.github.io/Capstone1/)
+[Live Demo Link](https://aduwujoseph.github.io/aduwujoseph.github.io-capstone1/)
 
 ## Presentation Video
 
